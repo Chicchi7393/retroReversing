@@ -120,6 +120,13 @@ The following tools can handle BFLIM files:
 * [BFLIMtoGTX](https://mega.nz/#!KgRilZAR!qLGAx1yb9KduShuzxwZjd7nuN329nMjDQvrX9sy-CsE), by RandomTalkingBush
 * [Wexos's Toolbox](http://mk8.tockdom.com/wiki/Wexos%27s_Toolbox), by [Wexos](http://mk8.tockdom.com/wiki/Wexos)
 
+## Super Mario Maker Level (.cdt)
+The CDT file format (Super Mario Maker Level) is used to store Super Mario Maker levels. [^7]: 
+The following tools can handle CDT files:
+* [MarioUnmaker](https://github.com/Treeki/MarioUnmaker/), by Treeki
+* [PointlessMaker](https://github.com/aboood40091/PointlessMaker), by aboood40091
+* [smm-course-viewer](https://github.com/leomaurodesenv/smm-course-viewer), by leomaurodesenv
+
 ---
 # Other WiiU File Formats
 
@@ -133,3 +140,4 @@ The Game Manual format is a `SARC` archive that can be extracted using `UWizard`
 [^4]: https://gbatemp.net/threads/loadiine-wud-question-what-are-rpx-rpl-how-to-obtain.398773/ 
 [^5]: https://gbatemp.net/threads/is-there-a-way-to-edit-the-bfma-manual-files.460790/ 
 [^6]: http://mk8.tockdom.com/wiki/BFLIM_(File_Format)
+[^7]: https://github.com/Treeki/MarioUnmaker/blob/master/FormatNotes.md
